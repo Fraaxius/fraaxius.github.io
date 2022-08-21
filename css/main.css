@@ -80,7 +80,7 @@ body {
     font-style: normal;
     font-weight: normal;
     line-height: 1.765;
-    color: #757575;
+    color: #ffffff;
     margin: 0;
     padding: 0;
 }
@@ -1246,7 +1246,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     line-height: 1.333;
     text-transform: uppercase;
     letter-spacing: .25rem;
-    color: #39b54a;
+    color: #a23386;
     margin-top: 0;
     margin-bottom: 0;
 }
@@ -1651,7 +1651,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     font-size: 1.3rem;
     text-transform: uppercase;
     letter-spacing: .3rem;
-    color: #39b54a;
+    color: #ffffff;
     -webkit-transition: all 0.5s ease-in-out;
     transition: all 0.5s ease-in-out;
 }
@@ -1859,8 +1859,8 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 }
 
 .home-content__scroll a::before {
-    border-bottom: 2px solid #39b54a;
-    border-right: 2px solid #39b54a;
+    border-bottom: 2px solid #a23386;
+    border-right: 2px solid #a23386;
     content: '';
     display: block;
     height: 8px;
@@ -1884,7 +1884,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     display: block;
     width: 2px;
     height: 10.2rem;
-    background-color: #39b54a;
+    background-color: #a23386;
     position: absolute;
     right: 7.2rem;
     bottom: 0;
@@ -2200,8 +2200,8 @@ html.no-csstransitions .home-content__main {
 .s-about {
     padding-top: 16.2rem;
     padding-bottom: 9rem;
-    background-color: #39b54a;
-    color: #010507;
+    background-color: #a23386;
+    color: #000000;
     position: relative;
 }
 
@@ -2405,7 +2405,7 @@ html.no-csstransitions .home-content__main {
 
 .services-list .service-icon {
     float: left;
-    color: #39b54a;
+    color: #a23386;
     font-size: 4.8rem;
     margin-top: -.6rem;
 }
@@ -2492,7 +2492,7 @@ html.no-csstransitions .home-content__main {
  *
  * ------------------------------------------------------------------- */
 .s-works {
-    background: #FFFFFF;
+    background: #6233a2;
     padding: 0 0 15rem 0;
     min-height: 800px;
     position: relative;
@@ -2992,7 +2992,7 @@ html.no-csstransitions .home-content__main {
     display: block;
     width: 2px;
     height: 20.4rem;
-    background-color: #39b54a;
+    background-color: #a23386;
     position: absolute;
     left: 50%;
     top: -10.2rem;
@@ -3019,7 +3019,7 @@ html.no-csstransitions .home-content__main {
 
 .contact-content h5 {
     margin-top: 0;
-    color: #39b54a;
+    color: #a23386;
 }
 
 .contact-content input[type="email"],
